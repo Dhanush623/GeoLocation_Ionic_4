@@ -1,0 +1,7 @@
+{
+  "name": "AnimationApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
